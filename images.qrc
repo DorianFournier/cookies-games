@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/coin-toss.png</file>
+        <file>images/find-the-lady.png</file>
+        <file>images/tic-tac-toe.png</file>
+        <file>images/cookie.png</file>
+        <file>images/warning.png</file>
+        <file>images/playing-cards.png</file>
+        <file>images/loading_splash_screen.png</file>
+        <file>images/ending_splash_screen.png</file>
+        <file>images/stack-of-coins-right.png</file>
+        <file>images/stack-of-coins.png</file>
+        <file>images/question-mark.png</file>
+        <file>images/programmeur.png</file>
+        <file>images/cookie_game_ftc.png</file>
+        <file>images/cookie_crumbs.png</file>
+        <file>images/biscuit_cover.png</file>
+        <file>images/search.png</file>
+        <file>images/win.png</file>
+        <file>images/game-over.png</file>
+        <file>images/fractale.jpg</file>
+
+        <file>images/center-align.png</file>
+        <file>images/coin.png</file>
+        <file>images/coin-flip-pb.png</file>
+        <file>images/coin-head.png</file>
+        <file>images/coin-tails.png</file>
+        <file>images/left-align.png</file>
+
+        <file>images/circle.png</file>
+        <file>images/circle_2.png</file>
+        <file>images/cross.png</file>
+        <file>images/cross_2.png</file>
+        <file>images/github.png</file>
+    </qresource>
+</RCC>
